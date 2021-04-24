@@ -10,3 +10,7 @@ photos in processing should be displayed in the list as processed (Activiti indi
 
 As you process, the list should be sorted from the blackest photo to the smallest. (The blackest at the top)
 But in UItableTableView cell i suppose to view original size photos
+
+
+https://user-images.githubusercontent.com/11960683/115964897-366b9c00-a52f-11eb-91ec-35f865fe00fe.mov
+
